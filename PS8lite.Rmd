@@ -226,5 +226,6 @@ write_csv(submission_rf, "submission_rf.csv")
 ```
 
 
-![](images/score_screenshot_naive.png){ width=100% }
+![](images/score_screenshot_rf.png){ width=100% }
 
+My Kaggle score using the random forests model is 0.15989.
